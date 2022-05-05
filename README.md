@@ -6,3 +6,5 @@ Commit One
 Commit Two
 \n
 Commit Three
+\n
+Commit Four
